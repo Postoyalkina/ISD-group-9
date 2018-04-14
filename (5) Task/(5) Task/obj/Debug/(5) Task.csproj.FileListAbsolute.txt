@@ -1,0 +1,7 @@
+C:\Users\Misha\source\repos\(5) Task\(5) Task\bin\Debug\(5) Task.exe.config
+C:\Users\Misha\source\repos\(5) Task\(5) Task\bin\Debug\(5) Task.exe
+C:\Users\Misha\source\repos\(5) Task\(5) Task\bin\Debug\(5) Task.pdb
+C:\Users\Misha\source\repos\(5) Task\(5) Task\obj\Debug\(5) Task.csprojResolveAssemblyReference.cache
+C:\Users\Misha\source\repos\(5) Task\(5) Task\obj\Debug\(5) Task.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\(5) Task\(5) Task\obj\Debug\(5) Task.exe
+C:\Users\Misha\source\repos\(5) Task\(5) Task\obj\Debug\(5) Task.pdb

@@ -1,0 +1,7 @@
+D:\Zheka\ISD\2(iterations)\2(iterations)\bin\Debug\2(iterations).exe.config
+D:\Zheka\ISD\2(iterations)\2(iterations)\bin\Debug\2(iterations).exe
+D:\Zheka\ISD\2(iterations)\2(iterations)\bin\Debug\2(iterations).pdb
+D:\Zheka\ISD\2(iterations)\2(iterations)\obj\Debug\2(iterations).csproj.CoreCompileInputs.cache
+D:\Zheka\ISD\2(iterations)\2(iterations)\obj\Debug\2(iterations).exe
+D:\Zheka\ISD\2(iterations)\2(iterations)\obj\Debug\2(iterations).pdb
+D:\Zheka\ISD\2(iterations)\2(iterations)\obj\Debug\2(iterations).csprojResolveAssemblyReference.cache

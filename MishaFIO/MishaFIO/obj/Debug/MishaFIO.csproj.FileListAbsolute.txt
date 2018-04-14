@@ -1,0 +1,7 @@
+D:\Zheka\Git\MishaFIO\MishaFIO\bin\Debug\MishaFIO.exe.config
+D:\Zheka\Git\MishaFIO\MishaFIO\bin\Debug\MishaFIO.exe
+D:\Zheka\Git\MishaFIO\MishaFIO\bin\Debug\MishaFIO.pdb
+D:\Zheka\Git\MishaFIO\MishaFIO\obj\Debug\MishaFIO.csprojResolveAssemblyReference.cache
+D:\Zheka\Git\MishaFIO\MishaFIO\obj\Debug\MishaFIO.csproj.CoreCompileInputs.cache
+D:\Zheka\Git\MishaFIO\MishaFIO\obj\Debug\MishaFIO.exe
+D:\Zheka\Git\MishaFIO\MishaFIO\obj\Debug\MishaFIO.pdb

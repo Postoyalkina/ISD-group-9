@@ -1,0 +1,7 @@
+E:\ISD\6(iterations)\6(iterations)\bin\Debug\6(iterations).exe.config
+E:\ISD\6(iterations)\6(iterations)\bin\Debug\6(iterations).exe
+E:\ISD\6(iterations)\6(iterations)\bin\Debug\6(iterations).pdb
+E:\ISD\6(iterations)\6(iterations)\obj\Debug\6(iterations).csprojResolveAssemblyReference.cache
+E:\ISD\6(iterations)\6(iterations)\obj\Debug\6(iterations).csproj.CoreCompileInputs.cache
+E:\ISD\6(iterations)\6(iterations)\obj\Debug\6(iterations).exe
+E:\ISD\6(iterations)\6(iterations)\obj\Debug\6(iterations).pdb

@@ -1,0 +1,6 @@
+E:\ISD\2(conditions)\2(conditions)\bin\Debug\2(conditions).exe.config
+E:\ISD\2(conditions)\2(conditions)\bin\Debug\2(conditions).exe
+E:\ISD\2(conditions)\2(conditions)\bin\Debug\2(conditions).pdb
+E:\ISD\2(conditions)\2(conditions)\obj\Debug\2(conditions).csproj.CoreCompileInputs.cache
+E:\ISD\2(conditions)\2(conditions)\obj\Debug\2(conditions).exe
+E:\ISD\2(conditions)\2(conditions)\obj\Debug\2(conditions).pdb

@@ -1,0 +1,7 @@
+E:\ISD\6(conditions)\6(conditions)\bin\Debug\6(conditions).exe.config
+E:\ISD\6(conditions)\6(conditions)\bin\Debug\6(conditions).exe
+E:\ISD\6(conditions)\6(conditions)\bin\Debug\6(conditions).pdb
+E:\ISD\6(conditions)\6(conditions)\obj\Debug\6(conditions).csprojResolveAssemblyReference.cache
+E:\ISD\6(conditions)\6(conditions)\obj\Debug\6(conditions).csproj.CoreCompileInputs.cache
+E:\ISD\6(conditions)\6(conditions)\obj\Debug\6(conditions).exe
+E:\ISD\6(conditions)\6(conditions)\obj\Debug\6(conditions).pdb

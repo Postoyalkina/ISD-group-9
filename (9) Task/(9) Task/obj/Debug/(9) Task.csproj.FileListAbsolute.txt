@@ -1,0 +1,7 @@
+C:\Users\Misha\Desktop\(9) Task\(9) Task\bin\Debug\(9) Task.exe.config
+C:\Users\Misha\Desktop\(9) Task\(9) Task\bin\Debug\(9) Task.exe
+C:\Users\Misha\Desktop\(9) Task\(9) Task\bin\Debug\(9) Task.pdb
+C:\Users\Misha\Desktop\(9) Task\(9) Task\obj\Debug\(9) Task.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\(9) Task\(9) Task\obj\Debug\(9) Task.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\(9) Task\(9) Task\obj\Debug\(9) Task.exe
+C:\Users\Misha\Desktop\(9) Task\(9) Task\obj\Debug\(9) Task.pdb

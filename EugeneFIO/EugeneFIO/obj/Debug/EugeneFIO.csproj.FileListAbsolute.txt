@@ -1,0 +1,7 @@
+D:\Zheka\Git\EugeneFIO\EugeneFIO\bin\Debug\EugeneFIO.exe.config
+D:\Zheka\Git\EugeneFIO\EugeneFIO\bin\Debug\EugeneFIO.exe
+D:\Zheka\Git\EugeneFIO\EugeneFIO\bin\Debug\EugeneFIO.pdb
+D:\Zheka\Git\EugeneFIO\EugeneFIO\obj\Debug\EugeneFIO.csprojResolveAssemblyReference.cache
+D:\Zheka\Git\EugeneFIO\EugeneFIO\obj\Debug\EugeneFIO.csproj.CoreCompileInputs.cache
+D:\Zheka\Git\EugeneFIO\EugeneFIO\obj\Debug\EugeneFIO.exe
+D:\Zheka\Git\EugeneFIO\EugeneFIO\obj\Debug\EugeneFIO.pdb
