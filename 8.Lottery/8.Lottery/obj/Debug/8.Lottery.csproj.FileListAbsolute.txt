@@ -1,0 +1,7 @@
+C:\Users\Анастасия\Documents\Важности\ISD\1\8.Lottery\8.Lottery\bin\Debug\8.Lottery.exe.config
+C:\Users\Анастасия\Documents\Важности\ISD\1\8.Lottery\8.Lottery\bin\Debug\8.Lottery.exe
+C:\Users\Анастасия\Documents\Важности\ISD\1\8.Lottery\8.Lottery\bin\Debug\8.Lottery.pdb
+C:\Users\Анастасия\Documents\Важности\ISD\1\8.Lottery\8.Lottery\obj\Debug\8.Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Documents\Важности\ISD\1\8.Lottery\8.Lottery\obj\Debug\8.Lottery.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Documents\Важности\ISD\1\8.Lottery\8.Lottery\obj\Debug\8.Lottery.exe
+C:\Users\Анастасия\Documents\Важности\ISD\1\8.Lottery\8.Lottery\obj\Debug\8.Lottery.pdb

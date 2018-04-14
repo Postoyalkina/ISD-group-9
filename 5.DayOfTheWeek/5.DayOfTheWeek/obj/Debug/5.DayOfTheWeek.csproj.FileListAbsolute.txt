@@ -1,0 +1,11 @@
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\bin\Debug\5.DayOfTheWeek.exe.config
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\bin\Debug\5.DayOfTheWeek.exe
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\bin\Debug\5.DayOfTheWeek.pdb
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\bin\Debug\nunit.framework.dll
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\bin\Debug\nunit.framework.pdb
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\bin\Debug\nunit.framework.xml
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\obj\Debug\5.DayOfTheWeek.csprojResolveAssemblyReference.cache
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\obj\Debug\5.DayOfTheWeek.csproj.CoreCompileInputs.cache
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\obj\Debug\5.DayOfTheWeek.csproj.CopyComplete
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\obj\Debug\5.DayOfTheWeek.exe
+D:\Универ\3 курс\Алгоритмы и анализ сложности\5.DayOfTheWeek\5.DayOfTheWeek\obj\Debug\5.DayOfTheWeek.pdb

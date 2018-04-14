@@ -1,0 +1,6 @@
+C:\Users\Анастасия\Documents\Важности\ISD\1\3.MoreLess\3.MoreLess\bin\Debug\3.MoreLess.exe.config
+C:\Users\Анастасия\Documents\Важности\ISD\1\3.MoreLess\3.MoreLess\bin\Debug\3.MoreLess.exe
+C:\Users\Анастасия\Documents\Важности\ISD\1\3.MoreLess\3.MoreLess\bin\Debug\3.MoreLess.pdb
+C:\Users\Анастасия\Documents\Важности\ISD\1\3.MoreLess\3.MoreLess\obj\Debug\3.MoreLess.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Documents\Важности\ISD\1\3.MoreLess\3.MoreLess\obj\Debug\3.MoreLess.exe
+C:\Users\Анастасия\Documents\Важности\ISD\1\3.MoreLess\3.MoreLess\obj\Debug\3.MoreLess.pdb

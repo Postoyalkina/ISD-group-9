@@ -1,0 +1,7 @@
+C:\Users\Анастасия\Documents\Важности\ISD\1\FIO\FIO\bin\Debug\FIO.exe.config
+C:\Users\Анастасия\Documents\Важности\ISD\1\FIO\FIO\bin\Debug\FIO.exe
+C:\Users\Анастасия\Documents\Важности\ISD\1\FIO\FIO\bin\Debug\FIO.pdb
+C:\Users\Анастасия\Documents\Важности\ISD\1\FIO\FIO\obj\Debug\FIO.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Documents\Важности\ISD\1\FIO\FIO\obj\Debug\FIO.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Documents\Важности\ISD\1\FIO\FIO\obj\Debug\FIO.exe
+C:\Users\Анастасия\Documents\Важности\ISD\1\FIO\FIO\obj\Debug\FIO.pdb
