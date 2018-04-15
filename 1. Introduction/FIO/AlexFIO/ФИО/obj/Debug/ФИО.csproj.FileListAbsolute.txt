@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Циклы_4\Циклы_4\bin\Debug\Циклы_4.exe.config
+C:\Users\Alex\source\repos\Циклы_4\Циклы_4\bin\Debug\Циклы_4.exe
+C:\Users\Alex\source\repos\Циклы_4\Циклы_4\bin\Debug\Циклы_4.pdb
+C:\Users\Alex\source\repos\Циклы_4\Циклы_4\obj\Debug\ФИО.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\Циклы_4\Циклы_4\obj\Debug\ФИО.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Циклы_4\Циклы_4\obj\Debug\Циклы_4.exe
+C:\Users\Alex\source\repos\Циклы_4\Циклы_4\obj\Debug\Циклы_4.pdb
