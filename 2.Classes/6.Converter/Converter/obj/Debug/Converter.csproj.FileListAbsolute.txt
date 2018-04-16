@@ -1,0 +1,7 @@
+C:\Users\Misha\Desktop\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\Misha\Desktop\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\Misha\Desktop\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\Misha\Desktop\Converter\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\Misha\Desktop\Converter\Converter\obj\Debug\Converter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Misha\Desktop\Books\Books\bin\Debug\Books.exe.config
+C:\Users\Misha\Desktop\Books\Books\bin\Debug\Books.exe
+C:\Users\Misha\Desktop\Books\Books\bin\Debug\Books.pdb
+C:\Users\Misha\Desktop\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Books\Books\obj\Debug\Books.exe
+C:\Users\Misha\Desktop\Books\Books\obj\Debug\Books.pdb
+C:\Users\Misha\Desktop\Books\Books\obj\Debug\Books.csprojResolveAssemblyReference.cache
