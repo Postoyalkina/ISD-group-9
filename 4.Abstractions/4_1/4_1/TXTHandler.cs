@@ -10,22 +10,26 @@ namespace _4_1
     {
         public override void Change()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Изменить файл типа TXT");
+            
         }
 
         public override void Create()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Создать файл типа TXT");
+            
         }
 
         public override void Open()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Открыть файл типа TXT");
+            
         }
 
         public override void Save()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Сохранить файл типа TXT");
+            
         }
     }
 }

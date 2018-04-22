@@ -8,24 +8,29 @@ namespace _4_1
 {
     class DOCHandler: AbstractHandler
     {
+
         public override void Change()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Изменить файл типа DOC");
+           
         }
 
         public override void Create()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Создать файл типа DOC");
+            
         }
 
         public override void Open()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Открыть файл типа DOC");
+            
         }
 
         public override void Save()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Сохранить файл типа DOC");
+            
         }
     }
 }
