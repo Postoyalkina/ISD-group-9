@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace _4_1
 {
-    class AbstractHandler
+    abstract class AbstractHandler
     {
+        abstract public void Open();
+        abstract public void Create();
+        abstract public void Change();
+        abstract public void Save();
     }
 }

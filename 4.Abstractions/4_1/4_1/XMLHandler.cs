@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace _4_1
 {
-    class XMLHandler
+    class XMLHandler : AbstractHandler
     {
+        public override void Change()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Create()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Open()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Save()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
