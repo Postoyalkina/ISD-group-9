@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _5_2
 {
-    class Program
+    public static class Sort
     {
         public static void QuickSort(int[] array, int lowBound, int highBound)
         {
@@ -27,7 +27,7 @@ namespace _5_2
             if (first < highBound) QuickSort(array, first + 1, highBound);
         }
 
-        public static void QuickSort(int[] array)
+        public static void QuickSort(this int[] array)
         {
             if (array.Length == 0) return;
             QuickSort(array, 0, array.Length - 1);
@@ -40,6 +40,10 @@ namespace _5_2
             array[i] = array[j];
             array[j] = temp;
         }
+    }
+    class Program
+    {
+        
 
         static void Main(string[] args)
         {
@@ -54,7 +58,7 @@ namespace _5_2
             {
                 Console.Write(item + " ");
             }
-            QuickSort(array);
+            array.QuickSort();
             Console.Write(" \nОтсортированный массив: ");
             foreach (int item in array)
             {
