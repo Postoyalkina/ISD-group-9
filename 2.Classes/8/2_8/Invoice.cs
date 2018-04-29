@@ -11,13 +11,9 @@ namespace _2_8
         int account;
         string customer;
         string provider;
-        /*Мне кажется что следующие поля здесь не очень нужны:
-        откуда там будут появляться данные?
-        почему в счете всего одни товар, а не массив?
-        почему у товара есть кол-во но нет цены?
-        почему товар не сделать отдельным классом?*/
         private string article;
-        private int quantity; 
+        private int quantity;
+        private double price;
 
         public int Account
         {
@@ -47,21 +43,26 @@ namespace _2_8
             this.customer = customer;
             this.provider = provider;
         }
-
-        public void PriceOfOrderWithoutTax(double priceOfOneGood,int quantity,string article)
+        public void SetDealParams(double priceOfOneGood, int quantity, string article)
+        {
+            price = priceOfOneGood;
+            this.quantity = quantity;
+            this.article = article;
+        }
+        public void PriceOfOrderWithoutTax()
         {
             Console.WriteLine("Your customer: " + customer);
             Console.WriteLine("Your provider: " + provider);
             Console.WriteLine("Article: " + article);
             Console.WriteLine("Quantity: " + quantity);
-            Console.WriteLine("PriceOfGood: " + priceOfOneGood);
-            Console.WriteLine("Total: " + quantity * priceOfOneGood);
+            Console.WriteLine("PriceOfGood: " + price);
+            Console.WriteLine("Total: " + quantity * price);
         }
-        public void PriceOfOrder(double priceOfOneGood, int quantity, string article)
+        public void PriceOfOrder()
         {
-            PriceOfOrderWithoutTax(priceOfOneGood, quantity, article);
-            Console.WriteLine("Tax: " + (quantity * priceOfOneGood * 0.20));
-            Console.WriteLine("Total with tax: " + (quantity * priceOfOneGood * 1.20));
+            PriceOfOrderWithoutTax();
+            Console.WriteLine("Tax: " + (quantity * price * 0.20));
+            Console.WriteLine("Total with tax: " + (quantity * price * 1.20));
         }
 
     }

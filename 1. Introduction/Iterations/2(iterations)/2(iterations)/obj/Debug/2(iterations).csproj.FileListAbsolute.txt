@@ -5,3 +5,10 @@ D:\Zheka\ISD\2(iterations)\2(iterations)\obj\Debug\2(iterations).csproj.CoreComp
 D:\Zheka\ISD\2(iterations)\2(iterations)\obj\Debug\2(iterations).exe
 D:\Zheka\ISD\2(iterations)\2(iterations)\obj\Debug\2(iterations).pdb
 D:\Zheka\ISD\2(iterations)\2(iterations)\obj\Debug\2(iterations).csprojResolveAssemblyReference.cache
+E:\ISD\ISD-group-9\1. Introduction\Iterations\2(iterations)\2(iterations)\bin\Debug\2(iterations).exe.config
+E:\ISD\ISD-group-9\1. Introduction\Iterations\2(iterations)\2(iterations)\bin\Debug\2(iterations).exe
+E:\ISD\ISD-group-9\1. Introduction\Iterations\2(iterations)\2(iterations)\bin\Debug\2(iterations).pdb
+E:\ISD\ISD-group-9\1. Introduction\Iterations\2(iterations)\2(iterations)\obj\Debug\2(iterations).csprojResolveAssemblyReference.cache
+E:\ISD\ISD-group-9\1. Introduction\Iterations\2(iterations)\2(iterations)\obj\Debug\2(iterations).csproj.CoreCompileInputs.cache
+E:\ISD\ISD-group-9\1. Introduction\Iterations\2(iterations)\2(iterations)\obj\Debug\2(iterations).exe
+E:\ISD\ISD-group-9\1. Introduction\Iterations\2(iterations)\2(iterations)\obj\Debug\2(iterations).pdb

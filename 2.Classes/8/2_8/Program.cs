@@ -12,9 +12,10 @@ namespace _2_8
         {
             Invoice i = new Invoice(345,"TransAir","UkrTechInvest");
             Console.WriteLine("TAX:");
-            i.PriceOfOrder(29000,40,"Engine");
+            i.SetDealParams(29000,40,"Engine");
+            i.PriceOfOrder();
             Console.WriteLine("Without TAX:");
-            i.PriceOfOrderWithoutTax(29000, 40, "Engine");
+            i.PriceOfOrderWithoutTax();
             Console.ReadKey();
         }
     }
